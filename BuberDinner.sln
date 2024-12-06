@@ -21,6 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Application", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Domain", "BuberDinner.Domain\BuberDinner.Domain.csproj", "{8FDE6A77-1B96-4DA2-AC89-8777FC0BEA87}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{D8EA0C0C-12EE-42C5-A1BD-17F8B3640908}"
+	ProjectSection(SolutionItems) = preProject
+		Api.md = Api.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +65,7 @@ Global
 		{410DDCC9-4A5E-44E9-ACB6-67B80CF99984} = {1D1C718A-E01A-4DFA-B9AE-DF40936E358D}
 		{67C92437-B30B-4E51-BB69-549ADA85ADC0} = {1C5C6E64-3CF9-4679-90C5-47DF9243E760}
 		{8FDE6A77-1B96-4DA2-AC89-8777FC0BEA87} = {1C5C6E64-3CF9-4679-90C5-47DF9243E760}
+		{D8EA0C0C-12EE-42C5-A1BD-17F8B3640908} = {5B6CA78B-F6BB-4A2E-B493-E0AA893011A8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96F7B1FC-89E6-41D8-B3E2-5804C185084B}
