@@ -1,8 +1,6 @@
 ﻿using BuberDinner.Application.Features.Authentication.Commands;
-using BuberDinner.Application.Features.Authentication.Common;
 using BuberDinner.Application.Features.Authentication.Queries;
 using BuberDinner.Contracts.Authentication;
-using ErrorOr;
 using MapsterMapper;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
